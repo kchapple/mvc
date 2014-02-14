@@ -1,0 +1,19 @@
+{
+    "name": "kchapple/mvc",
+    "description": "mvc component with tiny footprint",
+    "license": "GPL v2",
+    "authors": [
+        {
+            "name": "Ken Chapple",
+            "email": "ken.chapple@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+    "autoload": {
+        "psr-0": {
+            "Mvc": "src/"
+        }
+    }
+}
